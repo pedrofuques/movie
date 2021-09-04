@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-MovieListApplication<movie-list>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.example.backend.movielist.MovieListApplication",
+      "projectName": "movie-list",
+      "args": ""
+    }
+  ]
+}
